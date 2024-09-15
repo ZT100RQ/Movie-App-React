@@ -9,13 +9,14 @@
     "lint": "eslint ./src",
     "preview": "vite preview",
     "lint:fix": "eslint --debug ./src",
-    "format": "prettier --white ./src"
+    "format": "prettier --write ./src"
   },
   "dependencies": {
     "antd": "^5.20.3",
     "date-fns": "^3.6.0",
     "lodash.debounce": "^4.0.8",
     "prettier": "3.3.3",
+    "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-detect-offline": "^2.4.5",
     "react-dom": "^18.3.1"

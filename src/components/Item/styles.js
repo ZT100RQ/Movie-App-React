@@ -26,7 +26,7 @@ export const paragraphStyle = {
 
 export const textStyle = {
   textAlign: 'start',
-  padding: '7px 0 0 0',
+  padding: '7px 0 7px 0',
   fontSize: '12px',
   lineHeight: '22px',
 };
